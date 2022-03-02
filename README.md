@@ -6,5 +6,6 @@ Group Members:
 2. Jeremy Byrne
 
 Our program, writen in Python, promps the user for their name and age, then outputs what age group they fall in.
+This program will also inform the senior citizens if they are eligible for social security based on their age.
 We have adapted our Code of Conduct from the Contributor Covenant.
 We are using the MIT license because it is short, permissive and easy to understand.
